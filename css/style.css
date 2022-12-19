@@ -6,6 +6,7 @@
 
 body {
   /* height: 5000px; */
+  font-family: sans-serif;
 }
 
 aside {
@@ -30,4 +31,8 @@ ul{
 ul a{
     color: inherit;
     text-decoration: none;
+}
+
+h2 {
+  font-size: 30px;
 }
